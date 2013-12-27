@@ -1,0 +1,10 @@
+Package: learnR
+Type: Package
+Title: first package
+Version: 1.0
+Date: 2013-12-26
+Author: daqing zhang
+Maintainer: daqing zhang <daqing.zhang@x-asset.com>
+Description: the description
+License: GPL
+Depends: rJava
