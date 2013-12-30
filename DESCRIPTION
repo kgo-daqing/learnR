@@ -7,4 +7,4 @@ Author: daqing zhang
 Maintainer: daqing zhang <daqing.zhang@x-asset.com>
 Description: the description
 License: GPL
-Depends: rJava
+Depends: rJava, jvmr
