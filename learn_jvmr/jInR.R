@@ -32,6 +32,7 @@ fib <- function(n) {
 system.time(fib(33))
 system.time(a['fib(33)'])
 system.time(b['fib(33)'])
+system.time(jFib(33))
 
 # Define variable
 interpret(a, "num") <- 3.4
