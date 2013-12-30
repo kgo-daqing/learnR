@@ -1,0 +1,1 @@
+PKG_LIBS = `/usr/bin/Rscript -e "Rcpp:::LdFlags()"`

@@ -8,3 +8,4 @@ Maintainer: daqing zhang <daqing.zhang@x-asset.com>
 Description: the description
 License: GPL
 Depends: rJava, jvmr
+LinkingTo: Rcpp
